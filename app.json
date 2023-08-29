@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "RFID Hunter",
+    "splash": {
+      "image": "./assets/splashTest.png"
+    }
+  }
+}
