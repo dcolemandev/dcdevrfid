@@ -1,0 +1,32 @@
+# Dependency directories
+/node_modules
+
+# Production build files
+/build
+
+# Environment variables
+.env
+
+# Editor specific files
+.vscode
+*.swp
+
+# Logs
+npm-debug.log*
+
+# Compiled source
+/public
+/.next
+
+# OS or editor generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea
+*.sublime-*
+
+# Build files
+.DS_Store
+build/
+*.swp
